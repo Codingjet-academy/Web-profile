@@ -1,0 +1,83 @@
+.head{
+  margin: 0 auto;
+  color: #B980F0;
+  font-family: 'Festive', cursive;
+  font-size: 70px;
+}
+.para1{
+  color: #FEFFDE;
+  font-size: 20px;
+  width: 50%;
+  margin: 10px auto 20px auto;
+  text-align: left;
+  line-height: 50px;
+  font-family: 'oswald', cursive;
+}
+.para2{
+  color: #FEFFDE;
+  font-size: 20px;
+  width: 50%;
+  margin:10px auto 20px auto;
+  text-align: left;
+  line-height: 50px;
+  font-family: 'oswald', cursive;
+}
+.para3{
+  color: #FEFFDE;
+  font-size: 20px;
+  width: 50%;
+  margin:10px auto 20px auto;
+  text-align: left;
+  line-height: 50px;
+  font-family: 'oswald', cursive;
+}
+.para4{
+  color: #FEFFDE;
+  font-size: 20px;
+  width: 50%;
+  margin:10px auto 20px auto;
+  text-align: left;
+  line-height: 50px;
+  font-family: 'oswald', cursive;
+}
+.para5{
+  color: #FEFFDE;
+  font-size: 20px;
+  width: 50%;
+  margin:10px auto 20px auto;
+  text-align: left;
+  line-height: 50px;
+  font-family: 'oswald', cursive;
+}
+
+
+
+
+/*---------------------------------------------------element--------------------------------------------------------------  */
+/*---------------------------------------------------element------------------------------------------------------ */
+/* ------------------------------------------------- element--------------------------------------------------------*/
+/*-------------------------------------- my element tags in css ---------------------------------------------------- */
+
+
+
+body{
+  position: relative;
+  background-color:#212121 ;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+a{
+  color: #66BFBF;
+}
+
+hr{border-style:none;
+   border-top-style: dotted;
+   color: #fff;
+   background: linear-gradient(271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   border-width: 7px;
+   margin: 70px auto 30px auto;
+   width: 5%;}
