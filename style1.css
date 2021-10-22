@@ -1,14 +1,26 @@
 .head{
-  margin: 0 auto;
+  margin: 30px auto 0 auto;
   color: #B980F0;
   font-family: 'Festive', cursive;
   font-size: 70px;
+}
+.head2{
+  margin: 30px auto 0 auto;
+  color: #B980F0;
+  font-size: 70px;
+  font-family: 'Architects Daughter', cursive;
+}
+.head3{
+  margin: 30px auto 0 auto;
+  color: #B980F0;
+  font-size: 70px;
+  font-family: 'Architects Daughter', cursive;
 }
 .para1{
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
-  margin: 10px auto 20px auto;
+  margin: 50px auto 70px auto;
   text-align: left;
   line-height: 50px;
   font-family: 'oswald', cursive;
@@ -17,7 +29,7 @@
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
-  margin:10px auto 20px auto;
+  margin:50px auto 70px auto;
   text-align: left;
   line-height: 50px;
   font-family: 'oswald', cursive;
@@ -26,7 +38,7 @@
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
-  margin:10px auto 20px auto;
+  margin:50px auto 70px auto;
   text-align: left;
   line-height: 50px;
   font-family: 'oswald', cursive;
@@ -35,7 +47,7 @@
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
-  margin:10px auto 20px auto;
+  margin:50px auto 70px auto;
   text-align: left;
   line-height: 50px;
   font-family: 'oswald', cursive;
@@ -44,11 +56,21 @@
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
-  margin:10px auto 20px auto;
+  margin:50px auto 70px auto;
   text-align: left;
   line-height: 50px;
   font-family: 'oswald', cursive;
 }
+.footer{
+  background-color: #8E05C2;
+  padding: 50px 0 20px;
+}
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
 
 
 
@@ -70,6 +92,11 @@ body{
 }
 a{
   color: #66BFBF;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #FEFFDE;
 }
 
 hr{border-style:none;
