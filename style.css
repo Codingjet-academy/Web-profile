@@ -13,7 +13,11 @@
   margin: 50px auto 0 auto;
   height: 119px;
 }
-
+.bottom-cloud{
+  position: absolute;
+  bottom: 450px;
+  left: 250px;
+}
 .mount1{
   position: absolute;
   left: 270px;
@@ -130,6 +134,11 @@
   font-size: 70px;
 }
 .desc3{
+  margin: 30px auto 20px auto;
+  color: #FEFFDE;
+
+}
+.desc4{
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
@@ -138,7 +147,7 @@
   line-height: 50px;
   font-family: 'oswald', cursive;
 }
-.desc4{
+.desc5{
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
@@ -147,7 +156,7 @@
   line-height: 50px;
   font-family: 'oswald', cursive;
 }
-.desc5{
+.desc6{
   color: #FEFFDE;
   font-size: 20px;
   width: 50%;
@@ -205,6 +214,11 @@ body{
   text-align: center;
   font-family: 'Merriweather', serif;
 
+}
+h2{
+  color: #B5DEFF;
+  font-family:'Dancing Script', cursive;
+  font-size: 45px;
 }
 a{
   color: #66BFBF;
