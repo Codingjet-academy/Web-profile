@@ -1,3 +1,6 @@
+.blog3{
+  text-align: center;
+}
 .head{
   margin: 30px auto 0 auto;
   color: #B980F0;
@@ -14,6 +17,21 @@
   margin: 30px auto 0 auto;
   color: #B980F0;
   font-size: 70px;
+  font-family: 'Architects Daughter', cursive;
+}
+.heada{
+
+  text-align: left;
+  margin: 40px 40px 0 50px;
+  color: #B980F0;
+  font-size: 40px;
+  font-family: 'Architects Daughter', cursive;
+}
+.headb{
+  text-align: left;
+  margin: 40px 40px 0 50px;
+  color: #B980F0;
+  font-size: 40px;
   font-family: 'Architects Daughter', cursive;
 }
 .para1{
@@ -59,7 +77,16 @@
   margin:50px auto 70px auto;
   text-align: left;
   line-height: 50px;
-  font-family: 'oswald', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+.para6{
+  color: #FEFFDE;
+  font-size: 20px;
+  margin:50px 50px 70px 50px;
+
+  text-align: left;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
 }
 .footer{
   background-color: #8E05C2;
@@ -86,7 +113,6 @@ body{
   position: relative;
   background-color:#212121 ;
   margin: 0;
-  text-align: center;
   font-family: 'Merriweather', serif;
 
 }
